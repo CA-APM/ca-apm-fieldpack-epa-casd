@@ -53,7 +53,7 @@ You can also manually execute the EPAgent Plug-in for CA Service Desk from a con
 
 * **For Windows users:**
 
-   -We strongly recommended that you do *not* use spaces in the CA Service Desk installation directory path.
+    We strongly recommended that you do *not* use spaces in the CA Service Desk installation directory path.
    
     Instead, use `dir /x` from a command prompt to view your directory names in 8.3 format.
 
