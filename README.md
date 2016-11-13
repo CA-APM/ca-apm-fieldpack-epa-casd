@@ -1,9 +1,7 @@
 # EPAgent Plug-in for CA Service Desk
 
 # Description
-The EPAgent Plug-in for CA Service Desk monitors CA Service Desk web engine statistics.
-
-The EPAagent Plug-in for CA Service Desk creates these metrics for each web engine:
+The EPAgent Plug-in for CA Service Desk monitors CA Service Desk web engine statistics and creates these metrics for each web engine:
 * Cumulative sessions so far
 * Most sessions at a time
 * Currently active sessions
@@ -55,9 +53,9 @@ You can also manually execute the EPAgent Plug-in for CA Service Desk from a con
 
 * **For Windows users:**
 
-We strongly recommended that you do *not* use spaces in the CA Service Desk installation directory path.
-
-Instead, use `dir /x` from a command prompt to view your directory names in 8.3 format.
+   -We strongly recommended that you do *not* use spaces in the CA Service Desk installation directory path.
+   
+    Instead, use `dir /x` from a command prompt to view your directory names in 8.3 format.
 
 # Support
 This document and extension are made available from CA Technologies. They are provided as examples at no charge as a courtesy to the CA APM Community at large. This extension might require modification for use in your environment. However, this extension is not supported by CA Technologies, and inclusion in this site should not be construed to be an endorsement or recommendation by CA Technologies. This extension is not covered by the CA Technologies software license agreement and there is no explicit or implied warranty from CA Technologies. The extension can be used and distributed freely amongst the CA APM Community, but not sold. As such, it is unsupported software, provided as is without warranty of any kind, express or implied, including but not limited to warranties of merchantability and fitness for a particular purpose. CA Technologies does not warrant that this resource will meet your requirements or that the operation of the resource will be uninterrupted or error free or that any defects will be corrected. The use of this extension implies that you understand and agree to the terms listed herein.
